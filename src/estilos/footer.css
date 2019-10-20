@@ -1,0 +1,28 @@
+.footrt_padre {
+  background-color: black;
+  color: aliceblue;
+  width: 100%;
+  height: 80px;
+  display: flex;
+  align-items: flex-end; }
+
+.caja_amarilla {
+  background-color: yellow;
+  width: 30%;
+  height: 10px;
+  display: flex;
+  align-content: flex-end; }
+
+.caja_roja {
+  background-color: red;
+  width: 30%;
+  height: 50px;
+  display: flex;
+  margin: 10px; }
+
+.caja_azul {
+  background-color: blue;
+  width: 30%;
+  height: 50px;
+  display: flex;
+  margin: 10px; }

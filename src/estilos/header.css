@@ -1,0 +1,14 @@
+.header_padre {
+  width: 30%;
+  background-color: bisque;
+  display: flex;
+  margin: 10px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  margin-left: 30px;
+  margin-right: 5px;
+  padding: 10px;
+  padding-top: 15px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 15px; }
